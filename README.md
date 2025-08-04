@@ -18,6 +18,7 @@ Repositório referente aos meus estudos do Framework NestJs
 - Customizando status code
 - Manipulando requisições, Get, Post, Update, Delete
 - Módulos do NestJs
+- Tratamento de erros com Nest
 
 ## Project setup
 
